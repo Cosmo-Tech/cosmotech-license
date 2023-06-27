@@ -71,6 +71,9 @@
       "moduleLicense": "Apache 2.0"
     },
     {
+      "moduleLicense": "BSD Zero Clause License"
+    },
+    {
       "moduleLicense": "BSD License 3"
     },
     {
@@ -83,13 +86,25 @@
       "moduleLicense": "BSD 3 Clause"
     },
     {
+      "moduleLicense": "The 3-Clause BSD License"
+    },
+    {
+      "moduleLicense": "The 2-Clause BSD License"
+    },
+    {
       "moduleLicense": "BSD 2 Clause"
     },
     {
       "moduleLicense": "Public Domain"
     },
     {
+      "moduleLicense": "PUBLIC DOMAIN"
+    },
+    {
       "moduleLicense": "Public Domain, per Creative Commons CC0"
+    },
+    {
+      "moduleLicense": "Creative Commons Legal Code"
     },
     {
       "moduleLicense": "Eclipse Public License 1.0"
