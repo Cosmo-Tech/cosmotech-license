@@ -159,6 +159,9 @@
     },
     {
       "moduleLicense": "MIT"
+    },
+    {
+      "moduleLicense": "The JSON License"
     }
   ]
 }
